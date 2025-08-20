@@ -15,3 +15,8 @@
 # Arquivos do sistema
 .DS_Store
 Thumbs.db
+
+# VSCode settings
+.vscode/
+.history/
+.code-workspace
