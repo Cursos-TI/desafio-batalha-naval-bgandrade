@@ -1,0 +1,17 @@
+# Compilados
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Arquivos temporários
+*~
+*.tmp
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
